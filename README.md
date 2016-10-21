@@ -1,4 +1,4 @@
-# Mysql Galera
+# kubernetes-mysql-cluster
 
 This example runs mysql galera through a petset.
 
@@ -31,4 +31,3 @@ Expect better solutions for the following as petset matures.
 * Image Upgrade
 * Maintenance
 
-# kubernetes-mysql-cluster
